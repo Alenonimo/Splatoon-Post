@@ -9,3 +9,6 @@
 *.sym
 *.eep
 LUFA/
+*.clip
+*.png
+*.bat
